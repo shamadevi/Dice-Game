@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background-color: #557571;
+}
+
+h1 {
+  font-size: 8rem;
+  font-family: 'Dancing Script', cursive;
+  color: #bfdcae;
+  margin: 10px;
+}
+
+h2 {
+  font-size: 5rem;
+  font-family: 'Dancing Script', cursive;
+  color: #bfdcae;
+}
+
+.game {
+  display: inline-block;
+  margin-left: 20px;
+  color: #bfdcae;
+  font-family: 'Pacifico', cursive;
+  font-size: 2.5rem;
+}
+
+img {
+  width: 70%;
+}
+
+footer {
+  margin: 40px;
+  color: #fff;
+  font-family: cursive;
+  font-size: 20px;
+}
